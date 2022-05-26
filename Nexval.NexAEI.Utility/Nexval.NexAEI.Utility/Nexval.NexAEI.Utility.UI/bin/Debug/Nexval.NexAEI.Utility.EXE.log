@@ -1,0 +1,197 @@
+
+Log Entry : 14:00:59 07 February 2019
+  :
+  :Export Completed between  01-01-2019 13:59:58 and 07-02-2019 13:59:58,Message:{"success":true}
+-------------------------------
+
+Log Entry : 14:05:18 07 February 2019
+  :
+  :Export Completed between  01-01-2019 13:59:58 and 07-02-2019 13:59:58,Message:{"success":true}
+-------------------------------
+
+Log Entry : 14:19:57 07 February 2019
+  :
+  :The Microsoft Jet database engine cannot find the input table or query 'DeviceLogs_2_2019'.  Make sure it exists and that its name is spelled correctly.
+-------------------------------
+
+Log Entry : 14:20:02 07 February 2019
+  :
+  :No Records Found between  06-02-2019 14:19:43 and 07-02-2019 14:19:43
+-------------------------------
+
+Log Entry : 14:21:30 07 February 2019
+  :
+  :Export Completed between  21-01-2019 14:19:43 and 22-01-2019 14:19:43,Message:{"success":true}
+-------------------------------
+
+Log Entry : 14:30:54 07 February 2019
+  :
+  :Export Completed between  07-01-2019 14:29:52 and 08-01-2019 14:29:52,Message:{"success":true}
+-------------------------------
+
+Log Entry : 14:32:42 07 February 2019
+  :
+  :Export Completed between  07-01-2019 14:29:52 and 09-01-2019 14:29:52,Message:{"success":true}
+-------------------------------
+
+Log Entry : 14:34:45 07 February 2019
+  :
+  :System.AggregateException: One or more errors occurred. ---> System.Net.Http.HttpRequestException: Response status code does not indicate success: 500 (Internal Server Error).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at Nexval.NexAEI.Utility.ProcessManager.<PostStreamAsync>d__3.MoveNext() in E:\Nexval\UtilityLab\UtilityLab\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\ProcessManager.cs:line 140
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at Nexval.NexAEI.Utility.ProcessManager.ExportDataToNexAei(ConfigurationInfo configInfo) in E:\Nexval\UtilityLab\UtilityLab\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\ProcessManager.cs:line 47
+---> (Inner Exception #0) System.Net.Http.HttpRequestException: Response status code does not indicate success: 500 (Internal Server Error).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at Nexval.NexAEI.Utility.ProcessManager.<PostStreamAsync>d__3.MoveNext() in E:\Nexval\UtilityLab\UtilityLab\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\ProcessManager.cs:line 140<---
+
+-------------------------------
+
+Log Entry : 14:40:07 07 February 2019
+  :
+  :System.AggregateException: One or more errors occurred. ---> System.Net.Http.HttpRequestException: Error while copying content to a stream. ---> System.IO.IOException: The read operation failed, see inner exception. ---> System.Net.WebException: The request was aborted: The request was canceled.
+   at System.Net.ConnectStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   at System.Net.Http.HttpClientHandler.WebExceptionWrapperStream.BeginRead(Byte[] buffer, Int32 offset, Int32 count, AsyncCallback callback, Object state)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClientHandler.WebExceptionWrapperStream.BeginRead(Byte[] buffer, Int32 offset, Int32 count, AsyncCallback callback, Object state)
+   at System.Net.Http.StreamToStreamCopy.StartRead()
+   --- End of inner exception stack trace ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Nexval.NexAEI.Utility.ProcessManager.<PostStreamAsync>d__3.MoveNext() in E:\Nexval\UtilityLab\UtilityLab\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\ProcessManager.cs:line 152
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at Nexval.NexAEI.Utility.ProcessManager.ExportDataToNexAei(ConfigurationInfo configInfo) in E:\Nexval\UtilityLab\UtilityLab\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\ProcessManager.cs:line 47
+---> (Inner Exception #0) System.Net.Http.HttpRequestException: Error while copying content to a stream. ---> System.IO.IOException: The read operation failed, see inner exception. ---> System.Net.WebException: The request was aborted: The request was canceled.
+   at System.Net.ConnectStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   at System.Net.Http.HttpClientHandler.WebExceptionWrapperStream.BeginRead(Byte[] buffer, Int32 offset, Int32 count, AsyncCallback callback, Object state)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClientHandler.WebExceptionWrapperStream.BeginRead(Byte[] buffer, Int32 offset, Int32 count, AsyncCallback callback, Object state)
+   at System.Net.Http.StreamToStreamCopy.StartRead()
+   --- End of inner exception stack trace ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Nexval.NexAEI.Utility.ProcessManager.<PostStreamAsync>d__3.MoveNext() in E:\Nexval\UtilityLab\UtilityLab\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\ProcessManager.cs:line 152<---
+
+-------------------------------
+
+Log Entry : 14:41:26 07 February 2019
+  :
+  :System.AggregateException: One or more errors occurred. ---> System.Net.Http.HttpRequestException: Response status code does not indicate success: 500 (Internal Server Error).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at Nexval.NexAEI.Utility.ProcessManager.<PostStreamAsync>d__3.MoveNext() in E:\Nexval\UtilityLab\UtilityLab\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\ProcessManager.cs:line 140
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at Nexval.NexAEI.Utility.ProcessManager.ExportDataToNexAei(ConfigurationInfo configInfo) in E:\Nexval\UtilityLab\UtilityLab\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\ProcessManager.cs:line 47
+---> (Inner Exception #0) System.Net.Http.HttpRequestException: Response status code does not indicate success: 500 (Internal Server Error).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at Nexval.NexAEI.Utility.ProcessManager.<PostStreamAsync>d__3.MoveNext() in E:\Nexval\UtilityLab\UtilityLab\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\ProcessManager.cs:line 140<---
+
+-------------------------------
+
+Log Entry : 14:43:22 07 February 2019
+  :
+  :System.AggregateException: One or more errors occurred. ---> System.Net.Http.HttpRequestException: Response status code does not indicate success: 500 (Internal Server Error).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at Nexval.NexAEI.Utility.ProcessManager.<PostStreamAsync>d__3.MoveNext() in E:\Nexval\UtilityLab\UtilityLab\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\ProcessManager.cs:line 140
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at Nexval.NexAEI.Utility.ProcessManager.ExportDataToNexAei(ConfigurationInfo configInfo) in E:\Nexval\UtilityLab\UtilityLab\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\ProcessManager.cs:line 47
+---> (Inner Exception #0) System.Net.Http.HttpRequestException: Response status code does not indicate success: 500 (Internal Server Error).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at Nexval.NexAEI.Utility.ProcessManager.<PostStreamAsync>d__3.MoveNext() in E:\Nexval\UtilityLab\UtilityLab\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\ProcessManager.cs:line 140<---
+
+-------------------------------
+
+Log Entry : 14:44:25 07 February 2019
+  :
+  :Export Completed between  09-01-2019 14:29:52 and 12-01-2019 14:29:52,Message:{"success":true}
+-------------------------------
+
+Log Entry : 14:45:29 07 February 2019
+  :
+  :System.AggregateException: One or more errors occurred. ---> System.Net.Http.HttpRequestException: Response status code does not indicate success: 500 (Internal Server Error).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at Nexval.NexAEI.Utility.ProcessManager.<PostStreamAsync>d__3.MoveNext() in E:\Nexval\UtilityLab\UtilityLab\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\ProcessManager.cs:line 140
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at Nexval.NexAEI.Utility.ProcessManager.ExportDataToNexAei(ConfigurationInfo configInfo) in E:\Nexval\UtilityLab\UtilityLab\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\ProcessManager.cs:line 47
+---> (Inner Exception #0) System.Net.Http.HttpRequestException: Response status code does not indicate success: 500 (Internal Server Error).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at Nexval.NexAEI.Utility.ProcessManager.<PostStreamAsync>d__3.MoveNext() in E:\Nexval\UtilityLab\UtilityLab\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\ProcessManager.cs:line 140<---
+
+-------------------------------
+
+Log Entry : 14:46:01 07 February 2019
+  :
+  :System.AggregateException: One or more errors occurred. ---> System.Net.Http.HttpRequestException: Response status code does not indicate success: 500 (Internal Server Error).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at Nexval.NexAEI.Utility.ProcessManager.<PostStreamAsync>d__3.MoveNext() in E:\Nexval\UtilityLab\UtilityLab\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\ProcessManager.cs:line 140
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at Nexval.NexAEI.Utility.ProcessManager.ExportDataToNexAei(ConfigurationInfo configInfo) in E:\Nexval\UtilityLab\UtilityLab\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\ProcessManager.cs:line 47
+---> (Inner Exception #0) System.Net.Http.HttpRequestException: Response status code does not indicate success: 500 (Internal Server Error).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at Nexval.NexAEI.Utility.ProcessManager.<PostStreamAsync>d__3.MoveNext() in E:\Nexval\UtilityLab\UtilityLab\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\ProcessManager.cs:line 140<---
+
+-------------------------------
+
+Log Entry : 14:47:05 07 February 2019
+  :
+  :Export Completed between  12-01-2019 14:29:52 and 17-01-2019 14:29:52,Message:{"success":true}
+-------------------------------
+
+Log Entry : 14:48:34 07 February 2019
+  :
+  :Export Completed between  17-01-2019 14:29:52 and 21-01-2019 14:29:52,Message:{"success":true}
+-------------------------------
+
+Log Entry : 15:32:57 07 February 2019
+  :
+  :Batch 1 Export Completed between  01-01-2019 15:31:13 and 31-01-2019 15:31:13,Message:{"success":true}
+-------------------------------
+
+Log Entry : 15:33:12 07 February 2019
+  :
+  :Batch 2 Export Completed between  01-01-2019 15:31:13 and 31-01-2019 15:31:13,Message:{"success":true}
+-------------------------------
+
+Log Entry : 15:33:28 07 February 2019
+  :
+  :Batch 3 Export Completed between  01-01-2019 15:31:13 and 31-01-2019 15:31:13,Message:{"success":true}
+-------------------------------
+
+Log Entry : 15:33:42 07 February 2019
+  :
+  :Batch 4 Export Completed between  01-01-2019 15:31:13 and 31-01-2019 15:31:13,Message:{"success":true}
+-------------------------------
+
+Log Entry : 15:33:57 07 February 2019
+  :
+  :Batch 5 Export Completed between  01-01-2019 15:31:13 and 31-01-2019 15:31:13,Message:{"success":true}
+-------------------------------
+
+Log Entry : 15:34:05 07 February 2019
+  :
+  :Batch 6 Export Completed between  01-01-2019 15:31:13 and 31-01-2019 15:31:13,Message:{"success":true}
+-------------------------------
+
+Log Entry : 15:34:05 07 February 2019
+  :
+  :Export Completed between  01-01-2019 15:31:13 and 31-01-2019 15:31:13,Message:{"success":true}{"success":true}{"success":true}{"success":true}{"success":true}{"success":true}
+-------------------------------

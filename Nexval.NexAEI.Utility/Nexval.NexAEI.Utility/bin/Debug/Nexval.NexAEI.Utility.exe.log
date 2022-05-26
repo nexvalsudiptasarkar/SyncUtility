@@ -1,0 +1,846 @@
+
+Log Entry : 11:36:06 20 May 2022
+  :
+  :Method name GetCheckinOutInfo() started
+-------------------------------
+
+Log Entry : 11:36:06 20 May 2022
+  :
+  :GetRecordDataSetCommon started
+-------------------------------
+
+Log Entry : 11:36:06 20 May 2022
+  :
+  :Db Connection established
+-------------------------------
+
+Log Entry : 11:36:14 20 May 2022
+  :
+  :Data filling completed
+-------------------------------
+
+Log Entry : 11:36:14 20 May 2022
+  :
+  :GetRecordDataSetCommon completed
+-------------------------------
+
+Log Entry : 11:36:14 20 May 2022
+  :
+  :GetCheckinOutInfo list filling completed
+-------------------------------
+
+Log Entry : 11:36:14 20 May 2022
+  :
+  :Method name GetCheckinOutInfo() completed
+-------------------------------
+
+Log Entry : 11:39:09 20 May 2022
+  :
+  :Method name GetCheckinOutInfo() started
+-------------------------------
+
+Log Entry : 11:39:09 20 May 2022
+  :
+  :GetRecordDataSetCommon started
+-------------------------------
+
+Log Entry : 11:39:09 20 May 2022
+  :
+  :Db Connection established
+-------------------------------
+
+Log Entry : 11:39:16 20 May 2022
+  :
+  :Data filling completed
+-------------------------------
+
+Log Entry : 11:39:16 20 May 2022
+  :
+  :GetRecordDataSetCommon completed
+-------------------------------
+
+Log Entry : 11:39:16 20 May 2022
+  :
+  :GetCheckinOutInfo list filling completed
+-------------------------------
+
+Log Entry : 11:39:16 20 May 2022
+  :
+  :Method name GetCheckinOutInfo() completed
+-------------------------------
+
+Log Entry : 12:37:37 23 May 2022
+  :
+  :Method name GetCheckinOutInfo() started
+-------------------------------
+
+Log Entry : 12:37:37 23 May 2022
+  :
+  :GetRecordDataSetCommon started
+-------------------------------
+
+Log Entry : 12:37:37 23 May 2022
+  :
+  :Db Connection established
+-------------------------------
+
+Log Entry : 15:40:44 23 May 2022
+  :
+  :Method name GetCheckinOutInfo() started
+-------------------------------
+
+Log Entry : 15:40:44 23 May 2022
+  :
+  :GetRecordDataSetCommon started
+-------------------------------
+
+Log Entry : 15:40:51 23 May 2022
+  :
+  :Db Connection established
+-------------------------------
+
+Log Entry : 15:41:00 23 May 2022
+  :
+  :Method name: GetRecordDataSetCommon() The multi-part identifier "T1.IndexNo" could not be bound.
+-------------------------------
+
+Log Entry : 15:41:00 23 May 2022
+  :
+  :GetRecordDataSetCommon completed
+-------------------------------
+
+Log Entry : 15:41:00 23 May 2022
+  :
+  :GetCheckinOutInfo list filling completed
+-------------------------------
+
+Log Entry : 15:41:00 23 May 2022
+  :
+  :Method name GetCheckinOutInfo() completed
+-------------------------------
+
+Log Entry : 15:41:00 23 May 2022
+  :
+  :No attendance data to post
+-------------------------------
+
+Log Entry : 15:41:11 23 May 2022
+  :
+  :Method name GetCheckinOutInfo() started
+-------------------------------
+
+Log Entry : 15:41:11 23 May 2022
+  :
+  :GetRecordDataSetCommon started
+-------------------------------
+
+Log Entry : 15:41:15 23 May 2022
+  :
+  :Db Connection established
+-------------------------------
+
+Log Entry : 15:53:43 23 May 2022
+  :
+  :Method name GetCheckinOutInfo() started
+-------------------------------
+
+Log Entry : 15:53:43 23 May 2022
+  :
+  :GetRecordDataSetCommon started
+-------------------------------
+
+Log Entry : 15:53:51 23 May 2022
+  :
+  :Db Connection established
+-------------------------------
+
+Log Entry : 15:54:30 23 May 2022
+  :
+  :Method name GetCheckinOutInfo() started
+-------------------------------
+
+Log Entry : 15:54:30 23 May 2022
+  :
+  :GetRecordDataSetCommon started
+-------------------------------
+
+Log Entry : 15:54:34 23 May 2022
+  :
+  :Db Connection established
+-------------------------------
+
+Log Entry : 15:55:03 23 May 2022
+  :
+  :Data filling completed
+-------------------------------
+
+Log Entry : 15:55:06 23 May 2022
+  :
+  :GetRecordDataSetCommon completed
+-------------------------------
+
+Log Entry : 15:55:37 23 May 2022
+  :
+  :GetCheckinOutInfo list filling completed
+-------------------------------
+
+Log Entry : 15:55:41 23 May 2022
+  :
+  :Method name GetCheckinOutInfo() completed
+-------------------------------
+
+Log Entry : 17:10:42 23 May 2022
+  :
+  :Method name GetCheckinOutInfo() started
+-------------------------------
+
+Log Entry : 17:10:42 23 May 2022
+  :
+  :GetRecordDataSetCommon started
+-------------------------------
+
+Log Entry : 17:10:45 23 May 2022
+  :
+  :Db Connection established
+-------------------------------
+
+Log Entry : 17:10:46 23 May 2022
+  :
+  :Data filling completed
+-------------------------------
+
+Log Entry : 17:10:46 23 May 2022
+  :
+  :GetRecordDataSetCommon completed
+-------------------------------
+
+Log Entry : 17:10:46 23 May 2022
+  :
+  :GetCheckinOutInfo list filling completed
+-------------------------------
+
+Log Entry : 17:10:47 23 May 2022
+  :
+  :Method name GetCheckinOutInfo() completed
+-------------------------------
+
+Log Entry : 17:13:17 23 May 2022
+  :
+  :Method name GetCheckinOutInfo() started
+-------------------------------
+
+Log Entry : 17:13:17 23 May 2022
+  :
+  :GetRecordDataSetCommon started
+-------------------------------
+
+Log Entry : 17:13:19 23 May 2022
+  :
+  :Db Connection established
+-------------------------------
+
+Log Entry : 17:13:44 23 May 2022
+  :
+  :Data filling completed
+-------------------------------
+
+Log Entry : 17:13:44 23 May 2022
+  :
+  :GetRecordDataSetCommon completed
+-------------------------------
+
+Log Entry : 17:13:44 23 May 2022
+  :
+  :GetCheckinOutInfo list filling completed
+-------------------------------
+
+Log Entry : 17:13:46 23 May 2022
+  :
+  :Method name GetCheckinOutInfo() completed
+-------------------------------
+
+Log Entry : 17:42:27 23 May 2022
+  :
+  :Method name GetCheckinOutInfo() started
+-------------------------------
+
+Log Entry : 17:42:27 23 May 2022
+  :
+  :GetRecordDataSetCommon started
+-------------------------------
+
+Log Entry : 17:42:33 23 May 2022
+  :
+  :Db Connection established
+-------------------------------
+
+Log Entry : 17:43:09 23 May 2022
+  :
+  :Data filling completed
+-------------------------------
+
+Log Entry : 17:43:15 23 May 2022
+  :
+  :GetRecordDataSetCommon completed
+-------------------------------
+
+Log Entry : 17:43:15 23 May 2022
+  :
+  :GetCheckinOutInfo list filling completed
+-------------------------------
+
+Log Entry : 17:43:24 23 May 2022
+  :
+  :Method name GetCheckinOutInfo() completed
+-------------------------------
+
+Log Entry : 18:10:54 23 May 2022
+  :
+  :Method name GetCheckinOutInfo() started
+-------------------------------
+
+Log Entry : 18:10:54 23 May 2022
+  :
+  :GetRecordDataSetCommon started
+-------------------------------
+
+Log Entry : 18:10:56 23 May 2022
+  :
+  :Db Connection established
+-------------------------------
+
+Log Entry : 18:10:58 23 May 2022
+  :
+  :Data filling completed
+-------------------------------
+
+Log Entry : 18:10:58 23 May 2022
+  :
+  :GetRecordDataSetCommon completed
+-------------------------------
+
+Log Entry : 18:10:58 23 May 2022
+  :
+  :GetCheckinOutInfo list filling completed
+-------------------------------
+
+Log Entry : 18:10:59 23 May 2022
+  :
+  :Method name GetCheckinOutInfo() completed
+-------------------------------
+
+Log Entry : 18:10:59 23 May 2022
+  :
+  :Rest call initiation started
+-------------------------------
+
+Log Entry : 18:11:02 23 May 2022
+  :
+  :Rest call initiation started json data is : {
+  "BulkAttendances": {
+    "OrgID": "234",
+    "AttendanceList": [
+      {
+        "Purpose": "NORTH KOLKATA",
+        "AttndType": "CHECKIN",
+        "ClientUserAgent": "AKASH INS BIOMETRIC DEVICE",
+        "ClientIP": "none",
+        "EmployeeID": "001",
+        "EmployeeName": "Lopamudra Das",
+        "LocalTime": "1652686714",
+        "Location": "Kolkata",
+        "TimeZone": "Asia/Kolkata",
+        "TimeZoneDiff": "19800",
+        "UserEmail": "",
+        "IndexNo": 1112040,
+        "timeStamp": "0001-01-01T00:00:00"
+      },
+      {
+        "Purpose": "Kharagpur Device",
+        "AttndType": "CHECKIN",
+        "ClientUserAgent": "AKASH INS BIOMETRIC DEVICE",
+        "ClientIP": "none",
+        "EmployeeID": "1139",
+        "EmployeeName": "Arindam Samanta",
+        "LocalTime": "1652685836",
+        "Location": "Kolkata",
+        "TimeZone": "Asia/Kolkata",
+        "TimeZoneDiff": "19800",
+        "UserEmail": "",
+        "IndexNo": 1112038,
+        "timeStamp": "0001-01-01T00:00:00"
+      },
+      {
+        "Purpose": "SOUTH KOLKATA",
+        "AttndType": "CHECKIN",
+        "ClientUserAgent": "AKASH INS BIOMETRIC DEVICE",
+        "ClientIP": "none",
+        "EmployeeID": "1297",
+        "EmployeeName": "Anand Mohan Choudhury",
+        "LocalTime": "1652691083",
+        "Location": "Kolkata",
+        "TimeZone": "Asia/Kolkata",
+        "TimeZoneDiff": "19800",
+        "UserEmail": "",
+        "IndexNo": 1112045,
+        "timeStamp": "0001-01-01T00:00:00"
+      },
+      {
+        "Purpose": "NORTH KOLKATA",
+        "AttndType": "CHECKIN",
+        "ClientUserAgent": "AKASH INS BIOMETRIC DEVICE",
+        "ClientIP": "none",
+        "EmployeeID": "1415",
+        "EmployeeName": "Brajesh Kumar",
+        "LocalTime": "1652691443",
+        "Location": "Kolkata",
+        "TimeZone": "Asia/Kolkata",
+        "TimeZoneDiff": "19800",
+        "UserEmail": "",
+        "IndexNo": 1112046,
+        "timeStamp": "0001-01-01T00:00:00"
+      },
+      {
+        "Purpose": "BANSDRONI OFFICE",
+        "AttndType": "CHECKIN",
+        "ClientUserAgent": "AKASH INS BIOMETRIC DEVICE",
+        "ClientIP": "none",
+        "EmployeeID": "1430",
+        "EmployeeName": "Pragya Surana",
+        "LocalTime": "1652689544",
+        "Location": "Kolkata",
+        "TimeZone": "Asia/Kolkata",
+        "TimeZoneDiff": "19800",
+        "UserEmail": "",
+        "IndexNo": 1112044,
+        "timeStamp": "0001-01-01T00:00:00"
+      },
+      {
+        "Purpose": "PATNA BORING RD",
+        "AttndType": "CHECKIN",
+        "ClientUserAgent": "AKASH INS BIOMETRIC DEVICE",
+        "ClientIP": "none",
+        "EmployeeID": "1447",
+        "EmployeeName": "Roli Ramana",
+        "LocalTime": "1652695296",
+        "Location": "Kolkata",
+        "TimeZone": "Asia/Kolkata",
+        "TimeZoneDiff": "19800",
+        "UserEmail": "",
+        "IndexNo": 1112048,
+        "timeStamp": "0001-01-01T00:00:00"
+      },
+      {
+        "Purpose": "Central Kolkata A",
+        "AttndType": "CHECKIN",
+        "ClientUserAgent": "AKASH INS BIOMETRIC DEVICE",
+        "ClientIP": "none",
+        "EmployeeID": "1466",
+        "EmployeeName": "Reshu Verma",
+        "LocalTime": "1652682835",
+        "Location": "Kolkata",
+        "TimeZone": "Asia/Kolkata",
+        "TimeZoneDiff": "19800",
+        "UserEmail": "",
+        "IndexNo": 1112031,
+        "timeStamp": "0001-01-01T00:00:00"
+      },
+      {
+        "Purpose": "Central Kolkata A",
+        "AttndType": "CHECKIN",
+        "ClientUserAgent": "AKASH INS BIOMETRIC DEVICE",
+        "ClientIP": "none",
+        "EmployeeID": "1467",
+        "EmployeeName": "Saheli Dassarma",
+        "LocalTime": "1652682907",
+        "Location": "Kolkata",
+        "TimeZone": "Asia/Kolkata",
+        "TimeZoneDiff": "19800",
+        "UserEmail": "",
+        "IndexNo": 1112033,
+        "timeStamp": "0001-01-01T00:00:00"
+      },
+      {
+        "Purpose": "NORTH KOLKATA",
+        "AttndType": "CHECKIN",
+        "ClientUserAgent": "AKASH INS BIOMETRIC DEVICE",
+        "ClientIP": "none",
+        "EmployeeID": "227",
+        "EmployeeName": "Vikas Gupta",
+        "LocalTime": "1652685321",
+        "Location": "Kolkata",
+        "TimeZone": "Asia/Kolkata",
+        "TimeZoneDiff": "19800",
+        "UserEmail": "",
+        "IndexNo": 1112037,
+        "timeStamp": "0001-01-01T00:00:00"
+      },
+      {
+        "Purpose": "NORTH KOLKATA",
+        "AttndType": "CHECKIN",
+        "ClientUserAgent": "AKASH INS BIOMETRIC DEVICE",
+        "ClientIP": "none",
+        "EmployeeID": "305",
+        "EmployeeName": "Mainak Dey",
+        "LocalTime": "1652683458",
+        "Location": "Kolkata",
+        "TimeZone": "Asia/Kolkata",
+        "TimeZoneDiff": "19800",
+        "UserEmail": "",
+        "IndexNo": 1112036,
+        "timeStamp": "0001-01-01T00:00:00"
+      },
+      {
+        "Purpose": "Central Kolkata Faculty",
+        "AttndType": "CHECKIN",
+        "ClientUserAgent": "AKASH INS BIOMETRIC DEVICE",
+        "ClientIP": "none",
+        "EmployeeID": "321",
+        "EmployeeName": "Mohd Zainul Haque",
+        "LocalTime": "1652692975",
+        "Location": "Kolkata",
+        "TimeZone": "Asia/Kolkata",
+        "TimeZoneDiff": "19800",
+        "UserEmail": "",
+        "IndexNo": 1112047,
+        "timeStamp": "0001-01-01T00:00:00"
+      },
+      {
+        "Purpose": "BARRACKPUR",
+        "AttndType": "CHECKIN",
+        "ClientUserAgent": "AKASH INS BIOMETRIC DEVICE",
+        "ClientIP": "none",
+        "EmployeeID": "479",
+        "EmployeeName": "Sarbani Bose",
+        "LocalTime": "1652683405",
+        "Location": "Kolkata",
+        "TimeZone": "Asia/Kolkata",
+        "TimeZoneDiff": "19800",
+        "UserEmail": "",
+        "IndexNo": 1112035,
+        "timeStamp": "0001-01-01T00:00:00"
+      },
+      {
+        "Purpose": "Central Kolkata Faculty",
+        "AttndType": "CHECKIN",
+        "ClientUserAgent": "AKASH INS BIOMETRIC DEVICE",
+        "ClientIP": "none",
+        "EmployeeID": "680",
+        "EmployeeName": "Gourab Roy",
+        "LocalTime": "1652688604",
+        "Location": "Kolkata",
+        "TimeZone": "Asia/Kolkata",
+        "TimeZoneDiff": "19800",
+        "UserEmail": "",
+        "IndexNo": 1112043,
+        "timeStamp": "0001-01-01T00:00:00"
+      },
+      {
+        "Purpose": "Kharagpur Device",
+        "AttndType": "CHECKIN",
+        "ClientUserAgent": "AKASH INS BIOMETRIC DEVICE",
+        "ClientIP": "none",
+        "EmployeeID": "756",
+        "EmployeeName": "Vikash Kumar",
+        "LocalTime": "1652687845",
+        "Location": "Kolkata",
+        "TimeZone": "Asia/Kolkata",
+        "TimeZoneDiff": "19800",
+        "UserEmail": "",
+        "IndexNo": 1112041,
+        "timeStamp": "0001-01-01T00:00:00"
+      },
+      {
+        "Purpose": "SILIGURI",
+        "AttndType": "CHECKIN",
+        "ClientUserAgent": "AKASH INS BIOMETRIC DEVICE",
+        "ClientIP": "none",
+        "EmployeeID": "837",
+        "EmployeeName": "Ananta Ray",
+        "LocalTime": "1652686070",
+        "Location": "Kolkata",
+        "TimeZone": "Asia/Kolkata",
+        "TimeZoneDiff": "19800",
+        "UserEmail": "",
+        "IndexNo": 1112039,
+        "timeStamp": "0001-01-01T00:00:00"
+      },
+      {
+        "Purpose": "Central Kolkata Faculty",
+        "AttndType": "CHECKIN",
+        "ClientUserAgent": "AKASH INS BIOMETRIC DEVICE",
+        "ClientIP": "none",
+        "EmployeeID": "902",
+        "EmployeeName": "Pooja Rai",
+        "LocalTime": "1652687998",
+        "Location": "Kolkata",
+        "TimeZone": "Asia/Kolkata",
+        "TimeZoneDiff": "19800",
+        "UserEmail": "",
+        "IndexNo": 1112042,
+        "timeStamp": "0001-01-01T00:00:00"
+      },
+      {
+        "Purpose": "Central Kolkata A",
+        "AttndType": "CHECKIN",
+        "ClientUserAgent": "AKASH INS BIOMETRIC DEVICE",
+        "ClientIP": "none",
+        "EmployeeID": "998",
+        "EmployeeName": "Subhodeep paul",
+        "LocalTime": "1652682707",
+        "Location": "Kolkata",
+        "TimeZone": "Asia/Kolkata",
+        "TimeZoneDiff": "19800",
+        "UserEmail": "",
+        "IndexNo": 1112030,
+        "timeStamp": "0001-01-01T00:00:00"
+      },
+      {
+        "Purpose": "NORTH KOLKATA",
+        "AttndType": "CHECKOUT",
+        "ClientUserAgent": "AKASH INS BIOMETRIC DEVICE",
+        "ClientIP": "none",
+        "EmployeeID": "001",
+        "EmployeeName": "Lopamudra Das",
+        "LocalTime": "1652686714",
+        "Location": "Kolkata",
+        "TimeZone": "Asia/Kolkata",
+        "TimeZoneDiff": "19800",
+        "UserEmail": "",
+        "IndexNo": 1112040,
+        "timeStamp": "0001-01-01T00:00:00"
+      },
+      {
+        "Purpose": "Kharagpur Device",
+        "AttndType": "CHECKOUT",
+        "ClientUserAgent": "AKASH INS BIOMETRIC DEVICE",
+        "ClientIP": "none",
+        "EmployeeID": "1139",
+        "EmployeeName": "Arindam Samanta",
+        "LocalTime": "1652685836",
+        "Location": "Kolkata",
+        "TimeZone": "Asia/Kolkata",
+        "TimeZoneDiff": "19800",
+        "UserEmail": "",
+        "IndexNo": 1112038,
+        "timeStamp": "0001-01-01T00:00:00"
+      },
+      {
+        "Purpose": "SOUTH KOLKATA",
+        "AttndType": "CHECKOUT",
+        "ClientUserAgent": "AKASH INS BIOMETRIC DEVICE",
+        "ClientIP": "none",
+        "EmployeeID": "1297",
+        "EmployeeName": "Anand Mohan Choudhury",
+        "LocalTime": "1652691083",
+        "Location": "Kolkata",
+        "TimeZone": "Asia/Kolkata",
+        "TimeZoneDiff": "19800",
+        "UserEmail": "",
+        "IndexNo": 1112045,
+        "timeStamp": "0001-01-01T00:00:00"
+      },
+      {
+        "Purpose": "NORTH KOLKATA",
+        "AttndType": "CHECKOUT",
+        "ClientUserAgent": "AKASH INS BIOMETRIC DEVICE",
+        "ClientIP": "none",
+        "EmployeeID": "1415",
+        "EmployeeName": "Brajesh Kumar",
+        "LocalTime": "1652691443",
+        "Location": "Kolkata",
+        "TimeZone": "Asia/Kolkata",
+        "TimeZoneDiff": "19800",
+        "UserEmail": "",
+        "IndexNo": 1112046,
+        "timeStamp": "0001-01-01T00:00:00"
+      },
+      {
+        "Purpose": "BANSDRONI OFFICE",
+        "AttndType": "CHECKOUT",
+        "ClientUserAgent": "AKASH INS BIOMETRIC DEVICE",
+        "ClientIP": "none",
+        "EmployeeID": "1430",
+        "EmployeeName": "Pragya Surana",
+        "LocalTime": "1652689544",
+        "Location": "Kolkata",
+        "TimeZone": "Asia/Kolkata",
+        "TimeZoneDiff": "19800",
+        "UserEmail": "",
+        "IndexNo": 1112044,
+        "timeStamp": "0001-01-01T00:00:00"
+      },
+      {
+        "Purpose": "PATNA BORING RD",
+        "AttndType": "CHECKOUT",
+        "ClientUserAgent": "AKASH INS BIOMETRIC DEVICE",
+        "ClientIP": "none",
+        "EmployeeID": "1447",
+        "EmployeeName": "Roli Ramana",
+        "LocalTime": "1652695296",
+        "Location": "Kolkata",
+        "TimeZone": "Asia/Kolkata",
+        "TimeZoneDiff": "19800",
+        "UserEmail": "",
+        "IndexNo": 1112048,
+        "timeStamp": "0001-01-01T00:00:00"
+      },
+      {
+        "Purpose": "Central Kolkata A",
+        "AttndType": "CHECKOUT",
+        "ClientUserAgent": "AKASH INS BIOMETRIC DEVICE",
+        "ClientIP": "none",
+        "EmployeeID": "1467",
+        "EmployeeName": "Saheli Dassarma",
+        "LocalTime": "1652682907",
+        "Location": "Kolkata",
+        "TimeZone": "Asia/Kolkata",
+        "TimeZoneDiff": "19800",
+        "UserEmail": "",
+        "IndexNo": 1112033,
+        "timeStamp": "0001-01-01T00:00:00"
+      },
+      {
+        "Purpose": "NORTH KOLKATA",
+        "AttndType": "CHECKOUT",
+        "ClientUserAgent": "AKASH INS BIOMETRIC DEVICE",
+        "ClientIP": "none",
+        "EmployeeID": "227",
+        "EmployeeName": "Vikas Gupta",
+        "LocalTime": "1652685321",
+        "Location": "Kolkata",
+        "TimeZone": "Asia/Kolkata",
+        "TimeZoneDiff": "19800",
+        "UserEmail": "",
+        "IndexNo": 1112037,
+        "timeStamp": "0001-01-01T00:00:00"
+      },
+      {
+        "Purpose": "NORTH KOLKATA",
+        "AttndType": "CHECKOUT",
+        "ClientUserAgent": "AKASH INS BIOMETRIC DEVICE",
+        "ClientIP": "none",
+        "EmployeeID": "305",
+        "EmployeeName": "Mainak Dey",
+        "LocalTime": "1652683458",
+        "Location": "Kolkata",
+        "TimeZone": "Asia/Kolkata",
+        "TimeZoneDiff": "19800",
+        "UserEmail": "",
+        "IndexNo": 1112036,
+        "timeStamp": "0001-01-01T00:00:00"
+      },
+      {
+        "Purpose": "Central Kolkata Faculty",
+        "AttndType": "CHECKOUT",
+        "ClientUserAgent": "AKASH INS BIOMETRIC DEVICE",
+        "ClientIP": "none",
+        "EmployeeID": "321",
+        "EmployeeName": "Mohd Zainul Haque",
+        "LocalTime": "1652692975",
+        "Location": "Kolkata",
+        "TimeZone": "Asia/Kolkata",
+        "TimeZoneDiff": "19800",
+        "UserEmail": "",
+        "IndexNo": 1112047,
+        "timeStamp": "0001-01-01T00:00:00"
+      },
+      {
+        "Purpose": "BARRACKPUR",
+        "AttndType": "CHECKOUT",
+        "ClientUserAgent": "AKASH INS BIOMETRIC DEVICE",
+        "ClientIP": "none",
+        "EmployeeID": "479",
+        "EmployeeName": "Sarbani Bose",
+        "LocalTime": "1652683405",
+        "Location": "Kolkata",
+        "TimeZone": "Asia/Kolkata",
+        "TimeZoneDiff": "19800",
+        "UserEmail": "",
+        "IndexNo": 1112035,
+        "timeStamp": "0001-01-01T00:00:00"
+      },
+      {
+        "Purpose": "Central Kolkata Faculty",
+        "AttndType": "CHECKOUT",
+        "ClientUserAgent": "AKASH INS BIOMETRIC DEVICE",
+        "ClientIP": "none",
+        "EmployeeID": "680",
+        "EmployeeName": "Gourab Roy",
+        "LocalTime": "1652688604",
+        "Location": "Kolkata",
+        "TimeZone": "Asia/Kolkata",
+        "TimeZoneDiff": "19800",
+        "UserEmail": "",
+        "IndexNo": 1112043,
+        "timeStamp": "0001-01-01T00:00:00"
+      },
+      {
+        "Purpose": "Kharagpur Device",
+        "AttndType": "CHECKOUT",
+        "ClientUserAgent": "AKASH INS BIOMETRIC DEVICE",
+        "ClientIP": "none",
+        "EmployeeID": "756",
+        "EmployeeName": "Vikash Kumar",
+        "LocalTime": "1652687845",
+        "Location": "Kolkata",
+        "TimeZone": "Asia/Kolkata",
+        "TimeZoneDiff": "19800",
+        "UserEmail": "",
+        "IndexNo": 1112041,
+        "timeStamp": "0001-01-01T00:00:00"
+      },
+      {
+        "Purpose": "Central Kolkata Faculty",
+        "AttndType": "CHECKOUT",
+        "ClientUserAgent": "AKASH INS BIOMETRIC DEVICE",
+        "ClientIP": "none",
+        "EmployeeID": "902",
+        "EmployeeName": "Pooja Rai",
+        "LocalTime": "1652687998",
+        "Location": "Kolkata",
+        "TimeZone": "Asia/Kolkata",
+        "TimeZoneDiff": "19800",
+        "UserEmail": "",
+        "IndexNo": 1112042,
+        "timeStamp": "0001-01-01T00:00:00"
+      },
+      {
+        "Purpose": "Central Kolkata A",
+        "AttndType": "CHECKOUT",
+        "ClientUserAgent": "AKASH INS BIOMETRIC DEVICE",
+        "ClientIP": "none",
+        "EmployeeID": "998",
+        "EmployeeName": "Subhodeep paul",
+        "LocalTime": "1652682707",
+        "Location": "Kolkata",
+        "TimeZone": "Asia/Kolkata",
+        "TimeZoneDiff": "19800",
+        "UserEmail": "",
+        "IndexNo": 1112030,
+        "timeStamp": "0001-01-01T00:00:00"
+      }
+    ]
+  }
+}
+-------------------------------
+
+Log Entry : 18:11:02 23 May 2022
+  :
+  :Rest call initiation started content data is : System.Net.Http.StringContent
+-------------------------------
+
+Log Entry : 22:53:01 25 May 2022
+  :
+  :Method name GetCheckinOutInfo() started
+-------------------------------
+
+Log Entry : 22:53:01 25 May 2022
+  :
+  :GetRecordDataSetCommon started
+-------------------------------
+
+Log Entry : 22:53:02 25 May 2022
+  :
+  :Db Connection established
+-------------------------------

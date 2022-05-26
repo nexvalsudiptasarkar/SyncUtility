@@ -1,0 +1,13 @@
+C:\Works\NexVal\UtilityLab\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility.WinService\bin\Release\Nexval.NexAEI.Utility.WinService.exe.config
+C:\Works\NexVal\UtilityLab\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility.WinService\bin\Release\Nexval.NexAEI.Utility.WinService.exe
+C:\Works\NexVal\UtilityLab\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility.WinService\bin\Release\Nexval.NexAEI.Utility.WinService.pdb
+C:\Works\NexVal\UtilityLab\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility.WinService\bin\Release\Nexval.NexAEI.Utility.exe
+C:\Works\NexVal\UtilityLab\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility.WinService\bin\Release\Newtonsoft.Json.dll
+C:\Works\NexVal\UtilityLab\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility.WinService\bin\Release\Nexval.NexAEI.Utility.pdb
+C:\Works\NexVal\UtilityLab\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility.WinService\bin\Release\Newtonsoft.Json.xml
+C:\Works\NexVal\UtilityLab\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility.WinService\obj\Release\Nexval.NexAEI.Utility.WinService.csprojResolveAssemblyReference.cache
+C:\Works\NexVal\UtilityLab\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility.WinService\obj\Release\Nexval.NexAEI.Utility.WinService.ProjectInstaller.resources
+C:\Works\NexVal\UtilityLab\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility.WinService\obj\Release\Nexval.NexAEI.Utility.WinService.Service1.resources
+C:\Works\NexVal\UtilityLab\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility.WinService\obj\Release\Nexval.NexAEI.Utility.WinService.csproj.GenerateResource.Cache
+C:\Works\NexVal\UtilityLab\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility.WinService\obj\Release\Nexval.NexAEI.Utility.WinService.exe
+C:\Works\NexVal\UtilityLab\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility\Nexval.NexAEI.Utility.WinService\obj\Release\Nexval.NexAEI.Utility.WinService.pdb
